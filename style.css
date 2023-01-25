@@ -1,0 +1,47 @@
+*{
+    background-color: rgb(120, 196, 219);
+}
+ul{
+    list-style: none;
+    background-color: rgb(5, 15, 121);
+    padding: 25px 0px 25px 15px;
+    margin: 0px;
+
+}
+ul li{
+    display: inline;
+    font-size: 15px;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 0px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    text-align: center;
+    color: rgb(2, 2, 31);
+    font-style: italic;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+a{
+    text-decoration: none;
+}
+ul li a:hover{
+    background-color: rgb(80, 30, 30);
+    color: rgb(135, 208, 237);
+    padding: 5px;
+}
+.mainimg img{
+    height: 400px;;
+    width: 100%;
+}
+.foot{
+    background-color: black;
+    color: aliceblue;
+    font-size: 15px;
+    text-align: center;
+    padding: 5px;
+}
