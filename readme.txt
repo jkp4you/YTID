@@ -1,5 +1,5 @@
 created by: Jitendra kumar
-This is a simple html css js website which include 
+This is a simple html css js website which can perform some calculations using java script function with login registration using localstorage by js
 
 => static calculation using function
 => Login page for admin
